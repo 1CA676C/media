@@ -1,5 +1,5 @@
 {
   "_base": "https://raw.githubusercontent.com/1CA676C/media/main/",
   "metro": ["som/metro/mm_clave1.wav"],
-  "snare": ["som/perc/snare1.mp3"]
+  "snare": ["som/perc/snare.mp3"]
 }
